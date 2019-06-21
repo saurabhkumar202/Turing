@@ -1,0 +1,7 @@
+<suite name="Regression">
+<test name="Test">
+    <classes>
+        <class name="com.automation.smoke.AppTest"></class>
+    </classes>
+</test>
+</suite>

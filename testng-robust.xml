@@ -1,0 +1,12 @@
+<suite name="Regression">
+<test name="Test">
+    <classes>
+        <class name="sanity.RobustTest"></class>
+        <class name ="com.automation.smoke.AppTest"></class>
+        <!--<methods>
+                <exclude name="openBrowser"/>
+
+        </methods>-->
+    </classes>
+</test>
+</suite>
